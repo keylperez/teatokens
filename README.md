@@ -2,7 +2,7 @@
 
 ![Logo](./public/favicon.ico)
 
-Deployed: http://teatokens.herokuapp.com/
+Deployed: https://teatokens-31a7152192cf.herokuapp.com/
 
 ## Description
 
@@ -19,7 +19,6 @@ An e-commerce website with an extensive tea product catalog, shopping cart, and 
 - Customer can edit cart (change quantity, remove a product)
 - Persistent cart for logged in customers and guests
 - Checkout items
-
 
 ## Technologies Used
 
